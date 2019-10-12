@@ -8,5 +8,5 @@ If you want to download it using git, copy paste the link that is presented to y
 ```
 git clone https://github.com/StephenGrider/WebpackProject.git
 cd WebpackProject
-npm install
+npm install    sśśśśśśśśąąąąąąąććććććććć
 ```
