@@ -38,7 +38,7 @@ module.exports = {
   },
   plugins: [
     new webpack.optimize.CommonsChunkPlugin({
-      names: ["vendor","manifest"]
+      names: ["vendor", "manifest"]
     }),
     new HtlmWebpackPlugin({
       template: "src/index.html"
